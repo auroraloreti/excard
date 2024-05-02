@@ -1,0 +1,33 @@
+h1{
+    font-family: Arial;
+    font-size: 22px;
+    padding-left: 10px;
+}
+article{
+    width: 300px;
+
+}
+a{
+    color: #005792;
+   padding: 10px;
+    display: inline-block;
+    margin: 4px;;
+}
+div{
+    border: 1px solid lightgrey;
+    margin-top: 0%;
+   
+}
+img{
+    margin: 0%; 
+    display: block;
+    overflow: hidden;
+    border: 1px solid lightgrey;
+    width: 298px;
+
+}
+p{
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: Arial;
+}
